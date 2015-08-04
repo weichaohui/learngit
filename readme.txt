@@ -19,5 +19,16 @@ git branch
 creating a new branch is quick and simple
 >>>>>>> featurel
 
+<<<<<<< HEAD
 ------------------------
 master
+=======
+
+branch dev
+
+branch master
+
+
+
+--------------------------------dev
+>>>>>>> dev
