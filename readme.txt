@@ -8,4 +8,7 @@ mutable mean 易变的
 
 git editor change to vi
 
-git branch
+git branch 
+
+
+creating a new branch is quick and simple
