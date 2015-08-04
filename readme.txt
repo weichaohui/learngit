@@ -18,3 +18,6 @@ git branch
 
 creating a new branch is quick and simple
 >>>>>>> featurel
+
+------------------------
+master
