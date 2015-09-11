@@ -1,5 +1,1 @@
-<<<<<<< HEAD
->>>>>>> test git pull
-=======
-text git pull --rebase
->>>>>>> test git pull --rebase
+test git rebase 2
